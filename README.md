@@ -15,8 +15,10 @@ All rights reserved.
 
 
 ![](https://github.com/basharbme/Dental-Smile-Project/blob/main/Screenshot_1.png)
-![](https://github.com/basharbme/SmileToCast-Blender/blob/main/2.PNG)
 
+# Example
+
+![](https://github.com/basharbme/SmileToCast-Blender/blob/main/2.PNG)
 ![](https://github.com/basharbme/SmileToCast-Blender/blob/main/Example/1.PNG)
 ![](https://github.com/basharbme/SmileToCast-Blender/blob/main/Example/2.PNG)
 ![](https://github.com/basharbme/SmileToCast-Blender/blob/main/Example/ddddeeedd.PNG)
