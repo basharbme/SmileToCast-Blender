@@ -1,6 +1,6 @@
 # SmileToCast-Blender
 
-Blender console easily convert dentist planning smile to 3D printable customized cast.
+Blender console easily convert dentist planning smile to 3D printable customized cast for veneers \ or cosmetics planning .
 Cast to be then scaled to real size impression.
 
 # To Run
