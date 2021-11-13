@@ -3,6 +3,9 @@
 Blender console easily convert dentist planning smile to 3D printable customized cast for veneers \ or cosmetics procedure planning .
 Cast to be then scaled to real size impression.
 
+NEEDED :  facial smile front and profile images + impression dimensions.
+
+
 # To Run
 Install Blender first ,Then download folder SmileToCast with patient front image in same directory.
 All service and operation requested by Ingeneiria Biomedica Arte , Eng. Bashar Shami the author.
